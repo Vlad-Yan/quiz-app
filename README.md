@@ -1,9 +1,9 @@
 # <div align="center">quiz-app</div>
 
  <div align="center"> 
-![image](https://user-images.githubusercontent.com/93535054/196051264-fef6262a-c99d-479c-8af9-b1d45a2f10f9.png)
-<br>
-<a href="https://https://vlad-yan.github.io/quiz-app/">View here</a>
+ ![react](https://user-images.githubusercontent.com/93535054/196051389-ee4fd44b-fd30-4160-8023-45693ff10878.png)
+ <br>
+<a href="https://vlad-yan.github.io/quiz-app/">View here</a>
 </div>
 
 ### Description
