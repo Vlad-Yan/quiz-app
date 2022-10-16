@@ -1,7 +1,7 @@
 # <div align="center">quiz-app</div>
 
  <div align="center"> 
- ![react](https://user-images.githubusercontent.com/93535054/196051389-ee4fd44b-fd30-4160-8023-45693ff10878.png)
+ ![react](https://user-images.githubusercontent.com/93535054/196051448-61e01ff6-35ba-4985-a5ad-bd06aee69c26.jpeg)
  <br>
 <a href="https://vlad-yan.github.io/quiz-app/">View here</a>
 </div>
