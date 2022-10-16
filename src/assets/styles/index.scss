@@ -40,7 +40,9 @@ body {
         color: (216, 216, 216);
         transition: all 0.3s ease-in-out;
         padding: 15px 35px;
-
+      }
+      @media (max-width: 400px) {
+        font-size: 14px;
       }
 
     }
@@ -100,4 +102,44 @@ body {
 
 .hide {
   display: none;
+}
+
+@media (max-width: 600px) {
+  .App {
+    width: 400px;
+  }
+}
+
+@media (max-width: 500px) {
+  
+  .App {
+    width: 300px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  li {
+    font-size: 16px;
+  }
+
+}
+
+@media (max-width: 400px) {
+  .App {
+    width: 220px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  li {
+    font-size: 14px;
+  }
+  
+  h2{
+    font-size: 18px;
+  }
 }
