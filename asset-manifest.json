@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quiz-app/static/css/main.550992ed.css",
+    "main.js": "/quiz-app/static/js/main.bd343901.js",
+    "static/media/basketball.png": "/quiz-app/static/media/basketball.e88777972ef8dac3a878.png",
+    "static/media/confetti.png": "/quiz-app/static/media/confetti.d292eaa638d415f12606.png",
+    "index.html": "/quiz-app/index.html",
+    "main.550992ed.css.map": "/quiz-app/static/css/main.550992ed.css.map",
+    "main.bd343901.js.map": "/quiz-app/static/js/main.bd343901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.550992ed.css",
+    "static/js/main.bd343901.js"
+  ]
+}
