@@ -1,8 +1,6 @@
 # <div align="center">quiz-app</div>
 
  <div align="center"> 
-![image](https://user-images.githubusercontent.com/93535054/196051619-119944aa-7ab2-4b92-b567-bdc580225405.png) 
- <br>
 <a href="https://vlad-yan.github.io/quiz-app/">View here</a>
 </div>
 
