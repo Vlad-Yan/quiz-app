@@ -5,7 +5,7 @@
 </div>
 
 ### Description
-- A quiz on basketball knowledge. Written in Reaction.
+- A quiz on basketball knowledge. Written in React.
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/93535054/196051141-f7ab7340-e391-48a4-9377-4a8d74310587.png)
